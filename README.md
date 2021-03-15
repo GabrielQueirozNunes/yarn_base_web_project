@@ -5,6 +5,8 @@
 * Node.JS
 * Yarn
 
+### Clone the git repository to your computer.
+
 ### Open the project source folder and download all dependencies running the following command:
 
 ~~~Bash
